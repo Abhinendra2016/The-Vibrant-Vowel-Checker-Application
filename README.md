@@ -27,7 +27,7 @@ The Vibrant Vowel Checker is a user-friendly application with a vibrant user int
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhinendra2016/vibrant-vowel-checker.git
+    git clone https://github.com/Abhinendra2016/The-Vibrant-Vowel-Checker-Application.git
     ```
 
 2. Open the `index.html` file in your web browser.
